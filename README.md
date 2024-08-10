@@ -4,7 +4,7 @@ Este é um clone simples do famoso jogo Flappy Bird, criado em JavaScript, HTML5
 
 ## 🚀 Demonstração
 
-![Flappy Bird Gameplay](link-para-gif-ou-imagem-do-jogo)
+![Flappy Bird Gameplay](http://127.0.0.1:5500/efeitos/index.htm)
 
 ## 🛠️ Tecnologias Utilizadas
 
